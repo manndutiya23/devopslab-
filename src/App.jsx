@@ -79,7 +79,7 @@ function App() {
       <section className="todo-card">
         <div className="hero-copy">
           <p className="eyebrow">React starter</p>
-          <h1>Todo App - Kubernetes v2</h1>
+          <h1>Todo App - Canary v3</h1>
           <p className="subtitle">
             A tiny app for adding tasks, checking them off, and keeping the list
             clean.

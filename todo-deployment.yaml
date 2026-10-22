@@ -14,7 +14,8 @@ spec:
     spec:
       containers:
       - name: todo
-        image: devops-todo:v1
+        image: devops-todo:react-nginx
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
+
