@@ -3,12 +3,9 @@
 ## 1. Title Page
 
 **Project Title:** Kubernetes-Based Canary Deployment of a React Todo Application  
-**Student Name:** ______________________________  
-**Roll Number:** ______________________________  
-**Course/Subject:** ______________________________  
-**Department/Institution:** ______________________________  
-**Faculty/Instructor:** ______________________________  
-**Academic Year:** ______________________________  
+**Student Name:** Mann . Kavya Muaaz 
+**Roll Number:** 16010123192, 16010123169, 16010123173  
+
 
 **GitHub Repository:** [https://github.com/manndutiya23/devopslab-](https://github.com/manndutiya23/devopslab-)
 
